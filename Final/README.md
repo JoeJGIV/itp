@@ -40,3 +40,9 @@ While I did not copy/paste any code for this project I utilized Rachel's Superco
 I then binged through a bulk of Eli Fieldsteel's Supercollider tutorial videos, and this is where I learned how to allocate effects busses, as well as how to store the effects as functions on the server.
 
 Again, no code was copied directly, but these are the sources of my knowledge in the program, so I thought they should be mentioned here.
+
+Eli Fieldsteel's tutorial playlist
+https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC
+
+Rachel Rome's Supercollider Repository:
+https://github.com/rdwrome/347sp24
