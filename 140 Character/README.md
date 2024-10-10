@@ -13,4 +13,4 @@ Firstly I ran into the chord cluster instead of a melody issue, this was fixed b
 Next I tried to add in some delay modulation, but I ran out of space to make the patch stereo. This is my favorite code in the file, but I had to remove the modulation to make it stereo for the final version.
 
 ## Final Notes
-Overall this exercise was great, but I do wish my code was a little more unique, but following Nathaniel's example did help me to learn about adverbs and other functions? (I'm unsure of the term for flat, alltuples, clump). I feel that the next, unlimited character patches I create will be able to be more in depth thanks to these new concepts that I will be asking you more about in class tomorrow.
+Overall this exercise was great, but I do wish my code was a little more unique, but following Nathaniel's example did help me to learn about adverbs and methods. I feel that the next, unlimited character patches I create will be able to be more in depth thanks to these new concepts that I will be asking you more about in class tomorrow.
